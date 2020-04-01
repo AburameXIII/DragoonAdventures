@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: d99bf27989ee55841a4915327d425b29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2146325261911611826
+    second: WalkRight1
+  - first:
+      213: -2810011418057339721
+    second: IdleFront
+  - first:
+      213: -6119407897691925928
+    second: IdleFrontRight
+  - first:
+      213: 167381097080743592
+    second: IdleRight
+  - first:
+      213: 3618997798475885219
+    second: IdleRightBack
+  - first:
+      213: 616332150192169460
+    second: IdleBack
+  - first:
+      213: -582978380845235329
+    second: IdleBackLeft
+  - first:
+      213: 4967684757281315799
+    second: IdleLeft
+  - first:
+      213: 6694978284594136819
+    second: IdleLeftFront
+  - first:
+      213: 7068083702919339556
+    second: WalkFront1
+  - first:
+      213: -7693340133729498439
+    second: RunFront1
+  - first:
+      213: -5010951831586698860
+    second: WalkFront2
+  - first:
+      213: 4020388871135548141
+    second: RunFront2
+  - first:
+      213: -688229848122020440
+    second: RunRight1
+  - first:
+      213: 2533875562729899844
+    second: WalkRight2
+  - first:
+      213: 3434998658308711658
+    second: RunRight2
+  - first:
+      213: -5672229385617329044
+    second: WalkBack1
+  - first:
+      213: -7542573313339911082
+    second: RunBack1
+  - first:
+      213: 3238584932762080826
+    second: WalkBack2
+  - first:
+      213: -5570686973185740576
+    second: RunBack2
+  - first:
+      213: 2146325261911611826
+    second: WalkFrontRight1
+  - first:
+      213: -5605576708813989966
+    second: RunFrontRight1
+  - first:
+      213: 4336346697300913297
+    second: WalkFrontRight2
+  - first:
+      213: -1103380662417975751
+    second: RunFrontRight2
+  - first:
+      213: 2451393007068253590
+    second: WalkRightBack1
+  - first:
+      213: 1692183584723203214
+    second: RunRightBack1
+  - first:
+      213: -8866479596036217031
+    second: WalkRightBack2
+  - first:
+      213: 4654327540530354391
+    second: RunRightBack2
+  - first:
+      213: -5635927335291346973
+    second: WalkBackLeft1
+  - first:
+      213: -6968001472700559312
+    second: RunBackLeft1
+  - first:
+      213: 8158321863494868635
+    second: WalkBackLeft2
+  - first:
+      213: 7695744841311600361
+    second: RunBackLeft2
+  - first:
+      213: 4041590844894487395
+    second: WalkLeft1
+  - first:
+      213: 3948046678226867112
+    second: RunLeft1
+  - first:
+      213: 264268973738978996
+    second: WalkLeft2
+  - first:
+      213: 5912724666428513898
+    second: RunLeft2
+  - first:
+      213: -3425109428441071498
+    second: WalkLeftFront1
+  - first:
+      213: -8878503661040872161
+    second: RunLeftFront1
+  - first:
+      213: 3895946574405038673
+    second: WalkLeftFront2
+  - first:
+      213: 2320413989454271064
+    second: RunLeftFront2
+  - first:
+      213: 7548981751116539261
+    second: DodgeFront1
+  - first:
+      213: -4589732851143681108
+    second: DodgeFront2
+  - first:
+      213: 8652109165779248648
+    second: DodgeFront3
+  - first:
+      213: -678880871320502277
+    second: DodgeFrontRight1
+  - first:
+      213: -124418779431736260
+    second: DodgeFrontRight2
+  - first:
+      213: 538268615488076903
+    second: DodgeFrontRight3
+  - first:
+      213: 4852840733855317788
+    second: DodgeFrontRight4
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleFront
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 466
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f452fe98dd3054c8a8c9cd183c779e
+      internalID: -2810011418057339721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontRight
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 466
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b5474c2911bb4c907c77b7ccc3a2f
+      internalID: -6119407897691925928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRight
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 466
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c2589ca40393c41be3f3b0fe5938e6
+      internalID: 167381097080743592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRightBack
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 466
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6750535f627742a800152e4190508
+      internalID: 3618997798475885219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleBack
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 466
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69d8066d0b28e041ad549674ca0620c
+      internalID: 616332150192169460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleBackLeft
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 466
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2cdb2de83abb14c8b66ed1da0e0857
+      internalID: -582978380845235329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 466
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74366a71c9416145be2ef82fdc5e2cd
+      internalID: 4967684757281315799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftFront
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 466
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df7f8355bd22b14ab1dd132b6d8dcc6
+      internalID: 6694978284594136819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkFront1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 442
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe666485a36f0d1439a4ef6f8eaf2fff
+      internalID: 7068083702919339556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFront1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e863a14206835459b78a08cd231e30
+      internalID: -7693340133729498439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkFront2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 395
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75349c5fc29d6a4191194d4a7c335b4
+      internalID: -5010951831586698860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFront2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c1aafeffab5747abe8ec778005c07
+      internalID: 4020388871135548141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRight1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 441
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e08e3080666f3488eb7564ebd241fa
+      internalID: 2146325261911611826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 418
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924da9acb7ac8d04b86d4781a4ded369
+      internalID: -688229848122020440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRight2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 395
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c75f28a732912547ac7daf2e8a482ce
+      internalID: 2533875562729899844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 372
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9165109944c714f8418fa05658c139
+      internalID: 3434998658308711658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 442
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d88568da7f9f0488a4aec29c66ba38
+      internalID: -5672229385617329044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBack1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 418
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4475a650e22a93141ac713e35b2d6b1b
+      internalID: -7542573313339911082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 395
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8b7c2297efd1a488958a151b57484c
+      internalID: 3238584932762080826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBack2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 372
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa001445613feac46b389e73d07581cc
+      internalID: -5570686973185740576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkFrontRight1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 442
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e862ef6949ff294fa50d835494398fa
+      internalID: 2146325261911611826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFrontRight1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 419
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b1cb5a75e47c4099eaabd8f85b763
+      internalID: -5605576708813989966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkFrontRight2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 395
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b781178677ba1d849abeb4729d49f90c
+      internalID: 4336346697300913297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFrontRight2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 372
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffde6d589595b834c8d82b3e78ad467b
+      internalID: -1103380662417975751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRightBack1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 441
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72769c35b4297de4fbc441692a006fcc
+      internalID: 2451393007068253590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRightBack1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 418
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b661c59d2df8bf4d9ed9dac485b5fa5
+      internalID: 1692183584723203214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkRightBack2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 395
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0c39519298921499cd7961f213727e
+      internalID: -8866479596036217031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRightBack2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 372
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8306304bb8f46d5419c00b358bb02592
+      internalID: 4654327540530354391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBackLeft1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 441
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac000f274dd67346a93c5aa2eab26a5
+      internalID: -5635927335291346973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackLeft1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 418
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26fc032866b18940b0dd25b709d09a5
+      internalID: -6968001472700559312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBackLeft2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 395
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d6ebdd95b7ca04ebd1459e945c4c93
+      internalID: 8158321863494868635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackLeft2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 372
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7aba185e3f16d43bd6bbffe6d74dcb
+      internalID: 7695744841311600361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeft1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 441
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fc1a9113d7bda44a92871765f09d4b
+      internalID: 4041590844894487395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeft1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 418
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbc314cf71b7dc41893b56d68a6c03d
+      internalID: 3948046678226867112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeft2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 395
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0881b02fdc46af54fbeaaa9559e55c9f
+      internalID: 264268973738978996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeft2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 372
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69407db314d9b24eaf4a1c8c902ebeb
+      internalID: 5912724666428513898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeftFront1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 443
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fb07917e204864aa63a64279d3c30d
+      internalID: -3425109428441071498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeftFront1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 420
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112b0b326799127408a22b60de813d5c
+      internalID: -8878503661040872161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeftFront2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 396
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142f6463fb759e841bd65c4f9b81a83c
+      internalID: 3895946574405038673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeftFront2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 373
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe455fb215e4c84587f3f9328d31edc
+      internalID: 2320413989454271064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeFront1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 351
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f098554fe1b034f841500265459016
+      internalID: 7548981751116539261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeFront2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 333
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d062a6708013fed498fb0a8060e3ef05
+      internalID: -4589732851143681108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeFront3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 317
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eaba685f4dd124b8240b9c78fe9d86
+      internalID: 8652109165779248648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeFrontRight1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 350
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f545c0816b053b4cba684e10219ca18
+      internalID: -678880871320502277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeFrontRight2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 333
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2557e4f564ee7264d9354ee6bb6c59a1
+      internalID: -124418779431736260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeFrontRight3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 316
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5700bbe45ebaa3e49bd8602ff5fe61be
+      internalID: 538268615488076903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeFrontRight4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 301
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eefc98c947279b43bf4d4147d750c2e
+      internalID: 4852840733855317788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 665d76cd4527cef46884ca4f0d041c8f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
